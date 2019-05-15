@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - enemy
+  - end_goal
+  - menu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3019064971
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foreground
+    uniqueID: 1180210205
+    locked: 0
+  - name: Enemy
+    uniqueID: 1868685235
+    locked: 0
+  - name: Enemy2
+    uniqueID: 937106813
+    locked: 0
+  - name: enemy3
+    uniqueID: 4133902963
+    locked: 0
+  - name: Charaters
+    uniqueID: 188089471
+    locked: 0
+  - name: accessories
+    uniqueID: 2919782861
+    locked: 0
+  - name: under_fake_UI
+    uniqueID: 585824839
+    locked: 0
+  - name: fake_UI
+    uniqueID: 1382163025
+    locked: 0
+  - name: store
+    uniqueID: 4037104301
+    locked: 0
+  - name: menu_item
+    uniqueID: 1730243521
+    locked: 0

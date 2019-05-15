@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ActiveGreen
+  - GreenCannon
+  - OrangeCannon
+  - PurpleCannon
+  - ActiveOrange
+  - ActivePurple
+  - OrangeBullet
+  - GreenBullet
+  - PurpleBullet
+  - InactiveGreen
+  - InactiveOrange
+  - InactivePurple
+  - Gamemaster
+  - ribosome_minigame_group
+  - MitochondriaPad
+  - ribosome_game_camera
+  - mitochondria_game_camera
+  - MitochondriaPadTemp
+  - RibosomeBox
+  - MitochondriaChannel
+  - MitochondriaChannelTemp
+  - MitochondriaBlack
+  - MitochondriaWhite
+  - MitochondriaRed
+  - MitochondriaBlue
+  - MitochondriaDarkRed
+  - MitochondriaDarkBlue
+  - MitochondriaPurple
+  - MitochondriaGreen
+  - MitochondriaBlackTemp
+  - MitochondriaWhiteTemp
+  - MitochondriaRedTemp
+  - MitochondriaBlueTemp
+  - water
+  - Glucose
+  - RibosomeBorder
+  - mitochondria_minigame_group
+  - salt
+  - click_block_one
+  - click_block_two
+  - click_block_three
+  - click_block_four
+  - active_click_box
+  - inactive_click_box
+  - EnemyCell
+  - PlayerCell
+  - weapon
+  - upgrade_placement_pad
+  - DNAgamecamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - mini_game
+  - MitochondriaPadLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: actual_irrelevant_background
+    uniqueID: 463261147
+    locked: 0
+  - name: WOWOWOWOWOOWBACK
+    uniqueID: 395787293
+    locked: 0
+  - name: EVEN MORE ABSOLUTE BACK
+    uniqueID: 751746559
+    locked: 0
+  - name: ABSOLUTE BACK
+    uniqueID: 1996006793
+    locked: 0
+  - name: VERYBACK
+    uniqueID: 1479026289
+    locked: 0
+  - name: before_very_back
+    uniqueID: 1745198683
+    locked: 0
+  - name: background
+    uniqueID: 379472669
+    locked: 0
+  - name: back
+    uniqueID: 1360320121
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: objects
+    uniqueID: 2895531437
+    locked: 0
+  - name: under_interface
+    uniqueID: 1191267105
+    locked: 0
+  - name: interface
+    uniqueID: 2561613371
+    locked: 0
